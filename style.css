@@ -1,0 +1,40 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+.traveldiv {
+    float: none;
+}
+
+.traveldiv img {
+    width: 100%
+}
+
+.moviediv {
+    font-size: 22px;
+    width: 100%;
+    padding: 6px 22px;
+    margin-bottom: 10px;
+}
+
+.moviediv i {
+    float: right;
+}
+
+.list-group-item {
+    margin-bottom: 20px !important;
+}
+
+
